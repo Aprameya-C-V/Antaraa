@@ -54,3 +54,11 @@ Antaraa uses AI models through OpenRouter's API to power therapeutic conversatio
 - Provides thoughtful responses using therapeutic principles
 - Detects crisis keywords to offer immediate support resources
 - Maintains complete privacy with no data storage
+
+## Configuration
+Customize your experience by modifying:
+
+AI model selection in MODEL
+Conversation starter messages
+Crisis detection keywords and resources
+Interface branding elements
