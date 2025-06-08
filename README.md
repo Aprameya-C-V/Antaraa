@@ -48,7 +48,7 @@ The application will open in your default browser at http://localhost:8501
 
 ## How It Works
 
-Antaraa uses advanced AI models through OpenRouter's API to power therapeutic conversations. The application:
+Antaraa uses AI models through OpenRouter's API to power therapeutic conversations, any openai compatiable api can be used. The application:
 
 - Creates a safe space for emotional expression
 - Provides thoughtful responses using therapeutic principles
